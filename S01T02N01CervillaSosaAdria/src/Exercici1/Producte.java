@@ -1,0 +1,19 @@
+package Exercici1;
+
+public class Producte {
+
+	String nom;
+	double preu;
+	public Producte(String nom, double preu) {
+		super();
+		this.nom = nom;
+		this.preu = preu;
+	}
+	
+	
+	
+	
+	
+	
+	
+}
