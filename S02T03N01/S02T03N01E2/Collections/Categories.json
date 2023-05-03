@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "645239d90e8b0eb0cc370c81"
+  },
+  "nom": "pizzes",
+  "codi": 1
+},{
+  "_id": {
+    "$oid": "64523a220e8b0eb0cc370c82"
+  },
+  "nom": "hamburgueses",
+  "codi": 2
+},{
+  "_id": {
+    "$oid": "64523a2e0e8b0eb0cc370c83"
+  },
+  "nom": "begudes",
+  "codi": 3
+}]

@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "645237ec0e8b0eb0cc370c73"
+  },
+  "localitat": "Barcelona",
+  "codi_provincia": 1
+},{
+  "_id": {
+    "$oid": "645237ec0e8b0eb0cc370c74"
+  },
+  "localitat": "Cambrils",
+  "codi_provincia": 2
+}]

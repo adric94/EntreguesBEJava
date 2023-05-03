@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "645162510e8b0eb0cc36fd85"
+  },
+  "nom": "Glasex",
+  "adreça": {
+    "carrer": "Carlit",
+    "numero": "2",
+    "pis": "",
+    "porta": "",
+    "ciutat": "Bolvir",
+    "codi_postal": 17092,
+    "pais": "España"
+  },
+  "telefon": 936522873,
+  "fax": 936522873,
+  "nif": "B938726584",
+  "codi": 1
+},{
+  "_id": {
+    "$oid": "645162510e8b0eb0cc36fd86"
+  },
+  "nom": "Gafex",
+  "adreça": {
+    "carrer": "Cabrit",
+    "numero": "12",
+    "pis": "",
+    "porta": "",
+    "ciutat": "Ger",
+    "codi_postal": 17094,
+    "pais": "España"
+  },
+  "telefon": 94583726,
+  "fax": 94583726,
+  "nif": "B73816522",
+  "codi": 2
+}]

@@ -1,0 +1,107 @@
+[{
+  "_id": {
+    "$oid": "64523e690e8b0eb0cc370c8e"
+  },
+  "codi_botiga": 1,
+  "codi_client": 1,
+  "tipus_comanda": "domicili",
+  "codi_empleat": 2,
+  "productes": [
+    {
+      "id_producte": {
+        "$oid": "64523a860e8b0eb0cc370c85"
+      },
+      "quantitat": 1
+    },
+    {
+      "id_producte": {
+        "$oid": "64523b0c0e8b0eb0cc370c89"
+      },
+      "quantitat": 1
+    }
+  ],
+  "preu_total": 15.3,
+  "data_entrega": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "codi_domicili": 1
+},{
+  "_id": {
+    "$oid": "64523e870e8b0eb0cc370c8f"
+  },
+  "codi_botiga": 1,
+  "codi_client": 2,
+  "tipus_comanda": "recollida",
+  "codi_empleat": 1,
+  "productes": [
+    {
+      "id_producte": {
+        "$oid": "64523a860e8b0eb0cc370c85"
+      },
+      "quantitat": 1
+    },
+    {
+      "id_producte": {
+        "$oid": "64523b0c0e8b0eb0cc370c89"
+      },
+      "quantitat": 1
+    }
+  ],
+  "preu_total": 15.3,
+  "data_entrega": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "64523ea20e8b0eb0cc370c90"
+  },
+  "codi_botiga": 2,
+  "codi_client": 3,
+  "tipus_comanda": "domicili",
+  "codi_empleat": 4,
+  "productes": [
+    {
+      "id_producte": {
+        "$oid": "64523a860e8b0eb0cc370c85"
+      },
+      "quantitat": 1
+    },
+    {
+      "id_producte": {
+        "$oid": "64523b0c0e8b0eb0cc370c89"
+      },
+      "quantitat": 1
+    }
+  ],
+  "preu_total": 15.3,
+  "data_entrega": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "codi_domicili": 2
+},{
+  "_id": {
+    "$oid": "64523f260e8b0eb0cc370c95"
+  },
+  "codi_botiga": 2,
+  "codi_client": 4,
+  "tipus_comanda": "recollida",
+  "codi_empleat": 3,
+  "productes": [
+    {
+      "id_producte": {
+        "$oid": "64523aec0e8b0eb0cc370c86"
+      },
+      "quantitat": 1
+    },
+    {
+      "id_producte": {
+        "$oid": "64523b0c0e8b0eb0cc370c89"
+      },
+      "quantitat": 1
+    }
+  ],
+  "preu_total": 12.3,
+  "data_entrega": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  }
+}]
