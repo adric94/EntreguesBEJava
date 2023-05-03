@@ -31,7 +31,7 @@ db.restaurants.find(    { name: /ces$/ }, { restaurant_id: 1, name: 1, borough: 
 //16
 db.restaurants.find(    { name: /.*Reg.*/i }, { restaurant_id: 1, name: 1, borough: 1, cuisine: 1 }  );
 //17
-db.restaurants.find(    { borough: Bronx, $or: [{ cuisine:'American ' }, { cuisine: 'Chinese' }] }  );
+db.restaurants.find(    { borough: 'Bronx', $or: [{ cuisine:'American ' }, { cuisine: 'Chinese' }] }  );
 //18
 db.restaurants.find(    { borough: { $in: ['Staten Island', 'Queens', 'Bronx', 'Brooklyn'] } }, { restaurant_id: 1, name: 1, borough: 1, cuisine: 1 }   );
 //19
